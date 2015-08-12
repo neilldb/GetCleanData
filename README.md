@@ -1,6 +1,6 @@
 # GetCleanData
 
-A single script called run_analysis.R was created to process the Human Activity Recognition Using Smartphones (UCI HAR) Dataset.  The analysis was performed as part of a Coursera course on "Getting and Cleaning Data," taught during August 2015.  In the case, dataset was downloaded from the following web site:
+A single script called run_analysis.R was created to process the Human Activity Recognition Using Smartphones (UCI HAR) Dataset.  The analysis was performed as part of a Coursera course on "Getting and Cleaning Data," taught during August 2015.  In this case, the dataset was downloaded from the following web site:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
